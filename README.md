@@ -4,7 +4,7 @@ LeadStack is a modern, lightweight Chrome extension designed to help you capture
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
 
 <table>
   <tr>
@@ -20,8 +20,6 @@ LeadStack is a modern, lightweight Chrome extension designed to help you capture
     </td>
   </tr>
 </table>
-
-*(Replace the placeholder URLs above with your actual screenshot images once available)*
 
 ---
 
